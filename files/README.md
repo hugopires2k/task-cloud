@@ -36,6 +36,7 @@ streamlit run app.py
 
 **Link do app:** _(cole aqui)_
 
-## Autores
+## Autores (Dupla)
 
-Dupla: _(nomes)_
+Hugo Pires
+Alef Rafael
